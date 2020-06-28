@@ -14,4 +14,4 @@ The EGN Abfallkalender offers appointments for the following German cities:
 
 You can use it to integrate the EGN appointments e.g. within your own Smart Home solution.
 
-Please open the [Read_EGN_Abfallkalender_Programmatically_With_Python](https://github.com/anjakuchenbecker/smarthome-egn-calendar/blob/master/Read_EGN_Abfallkalender_Programmatically_With_Python.ipynb).
+Please open the [Read_EGN_Abfallkalender_Programmatically_With_Python.ipynb file](https://github.com/anjakuchenbecker/smarthome-egn-calendar/blob/master/Read_EGN_Abfallkalender_Programmatically_With_Python.ipynb).
